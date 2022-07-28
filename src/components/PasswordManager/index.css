@@ -1,0 +1,240 @@
+.app-container {
+    padding: 30px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #9ba9eb;
+  }
+  
+  .container1 {
+    width: 65%;
+    background-color: #5763a5;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+    height: 70%;
+  }
+  
+  .container2 {
+    padding: 20px;
+    width: 65%;
+    background-color: #5763a5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+    height: 70%;
+  }
+  
+  .logo {
+    height: 60px;
+    width: 140px;
+    align-self: flex-start;
+    margin-left: 270px;
+    margin-bottom: 10px;
+  }
+  
+  .heading {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #c3caea;
+    align-self: flex-start;
+  }
+  
+  .card1 {
+    height: 85%;
+    width: 45;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 30px;
+    padding-top: 10px;
+    background-color: #454f84;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10px;
+  }
+  
+  .card2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    margin: 10px;
+  }
+  
+  .password-manager {
+    height: 250px;
+    width: 250px;
+  }
+  
+  .website-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+  }
+  
+  .username-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+  }
+  
+  .password-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 7px;
+  }
+  
+  .button {
+    font-family: 'Roboto';
+    font-size: 14px;
+    height: 40px;
+    width: 70px;
+    margin: 7px;
+    align-self: flex-end;
+    background-color: #0b69ff;
+    border-width: 0px;
+    border-radius: 5px;
+    color: #ffffff;
+    padding: 5px;
+    margin-right: 15px;
+  }
+  
+  .container-logo {
+    height: 28px;
+    width: 27px;
+    padding: 5px;
+    background-color: #f8fafc;
+  }
+  
+  .container-input {
+    height: 30px;
+    width: 270px;
+    padding: 10px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+  
+  .password-display-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    align-self: center;
+  }
+  
+  .password-heading-section {
+    width: 23%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .password-heading {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #c3caea;
+    font-weight: bold;
+  }
+  
+  .passwords-count {
+    border: 1px solid #c3caea;
+    color: #c3caea;
+    font-family: 'Roboto';
+    font-size: 12px;
+    border-radius: 15px;
+    width: 25px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .search-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .search-input {
+    height: 20px;
+    width: 150px;
+    padding: 10px;
+  }
+  
+  .search-img {
+    height: 25spx;
+    width: 25px;
+    padding: 5px;
+    background-color: #f8fafc;
+  }
+  
+  .line {
+    border: 0.5px solid #f8fafc;
+    width: 90%;
+    margin-top: 0px;
+  }
+  
+  .display-section {
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .display-section1 {
+    height: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 90%;
+    flex-wrap: wrap;
+  }
+  
+  .no-passwords-img {
+    height: 180px;
+    width: 180px;
+  }
+  
+  .checkbox-section {
+    align-self: flex-end;
+    margin-right: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .label {
+    margin-left: 5px;
+    color: #f8fafc;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+  
+  .para1 {
+    color: #f8fafc;
+    font-family: 'Roboto';
+    font-size: 18px;
+  }
+  
